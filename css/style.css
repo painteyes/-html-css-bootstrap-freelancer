@@ -8,9 +8,9 @@ header{
     text-align: right;
 }
 
-.list-menu {
-    text-decoration: none;
+.list-menu * {
     list-style-type:none;
+    display: inline-block;
 }
 .burger-menu{
     font-size: x-large;
