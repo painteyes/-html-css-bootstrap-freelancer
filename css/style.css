@@ -3,6 +3,9 @@ header{
     color: white ;
 }
 
+img{
+    max-width: 100%;
+}
 
 .menu{
     text-align: right;
@@ -26,3 +29,16 @@ header{
     width: 200px;
     padding-bottom: 20px;
 }
+
+.portfolio{
+    padding: 20px 0;
+}
+
+.portfolio-item{
+    margin-bottom: 20px;
+    border-radius: 20px;
+    overflow: hidden;
+} 
+
+
+
